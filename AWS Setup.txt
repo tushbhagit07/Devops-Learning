@@ -1,0 +1,12 @@
+
+AWS Setup
+
+1. Root Account - tushar.swqa@gmail.com / Testdemo@199
+Account name - QA_AWS-devops
+
+
+IAM User
+
+https://418272782496.signin.aws.amazon.com/console      // Console Sign in URL
+ITAdmin1     // Username
+gK!2=7|7     // password
